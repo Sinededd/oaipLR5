@@ -1,0 +1,5 @@
+﻿  start.cpp
+D:\Study\Unic\OAIP\LR5\task3\start.cpp(6,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\Study\Unic\OAIP\LR5\task3\start.cpp(7,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\Study\Unic\OAIP\LR5\task3\start.cpp(14,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task3.vcxproj -> D:\Study\Unic\OAIP\LR5\x64\Debug\task3.exe

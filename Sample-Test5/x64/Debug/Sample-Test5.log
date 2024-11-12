@@ -1,0 +1,3 @@
+﻿D:\Programs\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2165,5): warning : The referenced project '..\Новая папка1{25C2EB64-4130-49E0-B2E7-CF8C6B56F122}' does not exist.
+  test.cpp
+  Sample-Test5.vcxproj -> D:\Study\Unic\OAIP\LR5\x64\Debug\Sample-Test5.exe
